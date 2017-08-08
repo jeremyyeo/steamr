@@ -1,0 +1,11 @@
+Package: steamr
+Title: R Wrapper for Steam Web API
+Version: 0.1
+Authors@R: person("Jeremy", "Yeo", email = "jeremyyeo@gmail.com", role = c("aut", "cre"))
+Description: R Wrapper for the Steam Web API. Used to get data for Dota2.
+Depends: R (>= 3.3.2)
+Imports: httr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
